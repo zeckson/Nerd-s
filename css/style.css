@@ -151,4 +151,17 @@ body {
   height: 315px;
   background-color: ghostwhite;
 }
+.f-contact{
+  display: flex;
+  width: 1160px;
+  justify-content: space-between;
+}
+.f-contact:last-child{
+  flex-grow: 2;
+}
+
+.soc-icon{
+  opacity: 50%;
+}
+
 
